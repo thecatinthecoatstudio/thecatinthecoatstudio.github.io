@@ -22,6 +22,7 @@ No cloud dependency.
 ## Privacy
 
 [StageLyrics Privacy Policy](./privacy/stagelyrics/)
+
 [My Little Victories Privacy Policy](./privacy/my-little-victories/)
 
 ## Contact
